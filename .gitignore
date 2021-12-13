@@ -2,9 +2,10 @@
 *.class
 
 # Simulation report files
-*reports*/*.txt
+reports/
 
 # Javadocs
+doc/
 *.html
 doc/stylesheet.css
 doc/resources/*.gif
@@ -14,6 +15,7 @@ doc/package-list
 /.idea/
 /out/
 the-one.iml
+the-onetwo.iml
 
 # some libs
 lib/hamcrest*
